@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "662824980402",
+    "project_id": "motogo-42603",
+    "storage_bucket": "motogo-42603.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662824980402:android:265383041b4eaa7a6d9eab",
+        "android_client_info": {
+          "package_name": "com.desdev.motogo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662824980402-6ker0vk5a83couf9ua9mrlsu4lril900.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXkcLa7kr9NWPvHwGWW6mkNIHVudQOCNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "662824980402-6ker0vk5a83couf9ua9mrlsu4lril900.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
